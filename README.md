@@ -1,4 +1,5 @@
-# Welcome to my visualization repository for the international coffee organization: a project in which I visualize the international coffee crisis: so-named because the revenue produced by coffee doesn't reach the growers in sufficient quantity and with sufficient constraints to both avoid overproduction and ensure quality.
+# Welcome to my visualization repository for the international coffee organization: 
+a project in which I visualize the international coffee crisis: so-named because the revenue produced by coffee doesn't reach the growers in sufficient quantity and with sufficient constraints to both avoid overproduction and ensure quality.
 
 Here you will find the transformed data I used to create my Tableau dashboard, along with, as I create it, the code to perform said transformations.
 
